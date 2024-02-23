@@ -1,7 +1,7 @@
 repeat task.wait() until game:IsLoaded()
 
-local MainScriptLoadstring = "https://raw.githubusercontent.com/AlSploit/GodSploit/main/MainScript"
-local SecurityLoadstring = "https://raw.githubusercontent.com/AlSploit/GodSploit/main/Security"
+local MainScriptLoadstring = "https://raw.githubusercontent.com/aesyncio/GodSploit/main/MainScript"
+local SecurityLoadstring = "https://raw.githubusercontent.com/aesyncio/GodSploit/main/Security"
 
 local function InitMainScript()
 	task.spawn(function()
