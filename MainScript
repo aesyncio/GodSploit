@@ -1,4 +1,4 @@
-local Owner = "IDontUseAura10"
+local Owner = game.Players.LocalPlayer.Name
 
 local LocalPlayer = game.Players.LocalPlayer
 
